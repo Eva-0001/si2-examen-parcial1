@@ -1,0 +1,14 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "Tienda (db)",
+      "Group": "Servidores",
+      "Host": "db",
+      "Port": 5432,
+      "MaintenanceDB": "tiendavr",
+      "Username": "postgres",
+      "SSLMode": "prefer",
+      "Comment": "PostgreSQL del stack. La password es la de POSTGRES_PASSWORD en el .env."
+    }
+  }
+}
