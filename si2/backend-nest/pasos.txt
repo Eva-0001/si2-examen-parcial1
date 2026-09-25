@@ -1,0 +1,2 @@
+npm run migration:run    # una sola vez, sobre tu base tiendavr
+npm run start:dev

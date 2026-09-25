@@ -1,0 +1,6 @@
+#root {
+  display: block;
+  min-height: 100dvh;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  color: #111827;
+}
